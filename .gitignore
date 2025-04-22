@@ -1,0 +1,15 @@
+/build
+
+# misc
+.DS_Store
+*.pem
+*.log
+
+# local env files
+.env*.local
+.env.local 
+.env.development    # Local development environment variables
+.env.production     # Production environment variables
+
+# vercel
+.vercel
